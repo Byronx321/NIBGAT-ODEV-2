@@ -1,5 +1,14 @@
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: sans-serif; padding: 50px 20px; background-color: aquamarine;}
+* { 
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0; 
+}
+
+body { 
+    font-family: sans-serif; 
+    padding: 50px 20px; 
+    background-color: aquamarine;
+}
 
 .ödev-no {
     position: fixed;
